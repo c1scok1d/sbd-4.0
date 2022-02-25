@@ -2,10 +2,11 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:advance_pdf_viewer/src/page.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:path_provider/path_provider.dart';
+
+import '../advance_pdf_viewer.dart';
 
 class PDFDocument {
   static const MethodChannel _channel =

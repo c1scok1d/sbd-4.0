@@ -99,8 +99,7 @@ dependencies:
     git: https://github.com/nuc134r/flutter_webview_plugin.git
   geocoder:
       git: https://github.com/aloisdeniel/flutter_geocoder.git
-  flutter_native_splash: ^2.0.1+1
-  
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

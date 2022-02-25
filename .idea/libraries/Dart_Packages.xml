@@ -5,27 +5,28 @@
         <entry key="app_settings">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="archive">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.2.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/archive-3.2.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="args">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="async">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/async-2.8.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
             </list>
           </value>
@@ -33,6 +34,7 @@
         <entry key="boolean_selector">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
             </list>
           </value>
@@ -40,20 +42,21 @@
         <entry key="cached_network_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-3.0.0-nullsafety/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/cached_network_image-3.0.0-nullsafety/lib" />
             </list>
           </value>
         </entry>
         <entry key="carousel_slider">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/carousel_slider-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="characters">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
             </list>
           </value>
@@ -61,6 +64,7 @@
         <entry key="charcode">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
             </list>
           </value>
@@ -68,13 +72,14 @@
         <entry key="chewie">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/chewie-1.2.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/chewie-1.2.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="clock">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
             </list>
           </value>
@@ -82,6 +87,7 @@
         <entry key="collection">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0/lib" />
             </list>
           </value>
@@ -89,90 +95,91 @@
         <entry key="connectivity">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="connectivity_for_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="connectivity_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/lib" />
             </list>
           </value>
         </entry>
         <entry key="connectivity_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="crypto">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="csslib">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="cupertino_icons">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="dio">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/dio-4.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/dio-4.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="dynamic_themes">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/dynamic_themes-1.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/dynamic_themes-1.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="easy_localization">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/easy_localization-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/easy_localization-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="easy_logger">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/easy_logger-0.0.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/easy_logger-0.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="eventify">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/eventify-1.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/eventify-1.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="fake_async">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
             </list>
           </value>
@@ -180,6 +187,7 @@
         <entry key="ffi">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2/lib" />
             </list>
           </value>
@@ -187,6 +195,7 @@
         <entry key="file">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
             </list>
           </value>
@@ -194,83 +203,84 @@
         <entry key="firebase_auth">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_auth_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-4.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-4.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_auth_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.0.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_core">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_core_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.2.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.2.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_core_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_database">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_dynamic_links">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0+11/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0+11/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_messaging">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-9.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-9.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_messaging_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_platform_interface-2.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_platform_interface-2.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="firebase_messaging_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="fl_location">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location-1.2.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location-1.2.1/lib" />
             </list>
           </value>
@@ -278,6 +288,7 @@
         <entry key="fl_location_platform_interface">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location_platform_interface-1.1.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location_platform_interface-1.1.1/lib" />
             </list>
           </value>
@@ -285,6 +296,7 @@
         <entry key="fl_location_web">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location_web-1.1.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location_web-1.1.1/lib" />
             </list>
           </value>
@@ -292,6 +304,7 @@
         <entry key="flutter">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter/lib" />
               <option value="$USER_HOME$/Downloads/flutter/packages/flutter/lib" />
             </list>
           </value>
@@ -299,6 +312,7 @@
         <entry key="flutter_activity_recognition">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_activity_recognition-1.3.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_activity_recognition-1.3.0/lib" />
             </list>
           </value>
@@ -306,41 +320,42 @@
         <entry key="flutter_braintree">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_braintree-2.3.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_braintree-2.3.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_cache_manager">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-3.0.0-nullsafety.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-3.0.0-nullsafety.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_credit_card">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_credit_card-0.1.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_credit_card-0.1.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_datetime_picker">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_datetime_picker-1.5.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_datetime_picker-1.5.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_facebook_login">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_foreground_task">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-3.5.5/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-3.5.5/lib" />
             </list>
           </value>
@@ -348,111 +363,105 @@
         <entry key="flutter_google_places">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_google_places-0.3.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_google_places-0.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_icons">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_image-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_image_compress">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.7.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.7.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_launcher_icons">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_local_notifications">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-5.0.0+4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-5.0.0+4/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_local_notifications_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_localizations">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/packages/flutter_localizations/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_localizations/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_native_admob">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_admob-2.1.0+3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_native_admob-2.1.0+3/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_native_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+3/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="flutter_native_splash">
-          <value>
-            <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.0.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+3/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_paystack">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_plugin_android_lifecycle">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_speed_dial">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_speed_dial-2.1.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_speed_dial-2.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_svg">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_test">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_test/lib" />
               <option value="$USER_HOME$/Downloads/flutter/packages/flutter_test/lib" />
             </list>
           </value>
@@ -460,6 +469,7 @@
         <entry key="flutter_web_plugins">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_web_plugins/lib" />
               <option value="$USER_HOME$/Downloads/flutter/packages/flutter_web_plugins/lib" />
             </list>
           </value>
@@ -467,251 +477,252 @@
         <entry key="flutter_webview_plugin">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/git/flutter_webview_plugin-f85db45aedefeab4c1df75cfc4c35f62d3c1c629/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/git/flutter_webview_plugin-f85db45aedefeab4c1df75cfc4c35f62d3c1c629/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_widget_from_html">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html-0.6.0-rc.2021031201/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html-0.6.0-rc.2021031201/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_widget_from_html_core">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html_core-0.6.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html_core-0.6.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="fluttertoast">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="freezed_annotation">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-0.14.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-0.14.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="fwfh_cached_network_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_cached_network_image-0.6.0-rc.2021030401/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_cached_network_image-0.6.0-rc.2021030401/lib" />
             </list>
           </value>
         </entry>
         <entry key="fwfh_chewie">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_chewie-0.6.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_chewie-0.6.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="fwfh_svg">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_svg-0.6.0+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_svg-0.6.0+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="fwfh_url_launcher">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_url_launcher-0.6.1+3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_url_launcher-0.6.1+3/lib" />
             </list>
           </value>
         </entry>
         <entry key="fwfh_webview">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_webview-0.6.2+2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_webview-0.6.2+2/lib" />
             </list>
           </value>
         </entry>
         <entry key="geocoder">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/git/flutter_geocoder-07f1516ac4db16ab0c97d1c18dcfa11538cf5805/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/git/flutter_geocoder-07f1516ac4db16ab0c97d1c18dcfa11538cf5805/lib" />
             </list>
           </value>
         </entry>
         <entry key="geofence_service">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geofence_service-3.4.8/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geofence_service-3.4.8/lib" />
             </list>
           </value>
         </entry>
         <entry key="geolocator">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.7.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator-7.7.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="geolocator_android">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="geolocator_apple">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="geolocator_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-2.3.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-2.3.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="geolocator_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_api_headers">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_headers-1.1.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_api_headers-1.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_maps_flutter">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_maps_flutter_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_maps_webservice">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_webservice-0.0.20-nullsafety.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_webservice-0.0.20-nullsafety.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_mobile_ads">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.12.2+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.12.2+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_sign_in">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_sign_in_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.1.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.1.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="google_sign_in_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/lib" />
             </list>
           </value>
         </entry>
         <entry key="group_radio_button">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/group_radio_button-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/group_radio_button-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="html">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="http">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="http_parser">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="in_app_purchase">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase-1.0.9/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase-1.0.9/lib" />
             </list>
           </value>
         </entry>
         <entry key="in_app_purchase_android">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_android-0.1.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_android-0.1.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="in_app_purchase_ios">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_ios-0.1.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_ios-0.1.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="in_app_purchase_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_platform_interface-1.3.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_platform_interface-1.3.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="intl">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="js">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
             </list>
           </value>
@@ -719,27 +730,28 @@
         <entry key="json_annotation">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.4.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="launch_review">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="lists">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/lists-0.1.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/lists-0.1.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="matcher">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11/lib" />
             </list>
           </value>
@@ -754,6 +766,7 @@
         <entry key="meta">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
             </list>
           </value>
@@ -761,83 +774,84 @@
         <entry key="mgrs_dart">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/mgrs_dart-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/mgrs_dart-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="mime">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="nested">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="octo_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0-nullsafety.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0-nullsafety.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus_linux">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_linux-1.0.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_linux-1.0.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_platform_interface-1.0.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_platform_interface-1.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="package_info_plus_windows">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_windows-1.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_windows-1.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="path">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
             </list>
           </value>
@@ -845,27 +859,28 @@
         <entry key="path_drawing">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="path_parsing">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="path_provider">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="path_provider_linux">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/lib" />
             </list>
           </value>
@@ -873,13 +888,14 @@
         <entry key="path_provider_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="path_provider_platform_interface">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.3/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.3/lib" />
             </list>
           </value>
@@ -887,6 +903,7 @@
         <entry key="path_provider_windows">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/lib" />
             </list>
           </value>
@@ -894,41 +911,42 @@
         <entry key="pedantic">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="permission_handler">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="permission_handler_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_platform_interface-3.7.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/permission_handler_platform_interface-3.7.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="petitparser">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="photo_view">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/photo_view-0.10.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/photo_view-0.10.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="platform">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/lib" />
             </list>
           </value>
@@ -936,6 +954,7 @@
         <entry key="plugin_platform_interface">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2/lib" />
             </list>
           </value>
@@ -943,13 +962,14 @@
         <entry key="positioned_tap_detector_2">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/positioned_tap_detector_2-1.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/positioned_tap_detector_2-1.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="process">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
             </list>
           </value>
@@ -957,63 +977,63 @@
         <entry key="progress_dialog">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="proj4dart">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/proj4dart-1.0.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/proj4dart-1.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="provider">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="quiver">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-3.0.1+1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/quiver-3.0.1+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="razorpay_flutter">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.7/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.7/lib" />
             </list>
           </value>
         </entry>
         <entry key="rxdart">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="sembast">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sembast-3.0.0+4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sembast-3.0.0+4/lib" />
             </list>
           </value>
         </entry>
         <entry key="share">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="shared_preferences">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.11/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.11/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.13/lib" />
             </list>
           </value>
@@ -1021,6 +1041,7 @@
         <entry key="shared_preferences_android">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.10/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/lib" />
             </list>
           </value>
@@ -1028,6 +1049,7 @@
         <entry key="shared_preferences_ios">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.0.9/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.0/lib" />
             </list>
           </value>
@@ -1035,6 +1057,7 @@
         <entry key="shared_preferences_linux">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.0/lib" />
             </list>
           </value>
@@ -1042,6 +1065,7 @@
         <entry key="shared_preferences_macos">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.3/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.3/lib" />
             </list>
           </value>
@@ -1049,6 +1073,7 @@
         <entry key="shared_preferences_platform_interface">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0/lib" />
             </list>
           </value>
@@ -1056,6 +1081,7 @@
         <entry key="shared_preferences_web">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.3/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.3/lib" />
             </list>
           </value>
@@ -1063,6 +1089,7 @@
         <entry key="shared_preferences_windows">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.0/lib" />
             </list>
           </value>
@@ -1070,13 +1097,14 @@
         <entry key="shimmer">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shimmer-1.1.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shimmer-1.1.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="sky_engine">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/bin/cache/pkg/sky_engine/lib" />
               <option value="$USER_HOME$/Downloads/flutter/bin/cache/pkg/sky_engine/lib" />
             </list>
           </value>
@@ -1084,6 +1112,7 @@
         <entry key="source_span">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/lib" />
             </list>
           </value>
@@ -1091,27 +1120,28 @@
         <entry key="sprintf">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sprintf-6.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sprintf-6.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="sqflite">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="sqflite_common">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.2.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.0.1+1/lib" />
             </list>
           </value>
         </entry>
         <entry key="stack_trace">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
             </list>
           </value>
@@ -1119,6 +1149,7 @@
         <entry key="stream_channel">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
             </list>
           </value>
@@ -1126,13 +1157,14 @@
         <entry key="stream_transform">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="string_scanner">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
             </list>
           </value>
@@ -1140,34 +1172,35 @@
         <entry key="stripe_android">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-1.2.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_android-1.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="stripe_ios">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_ios-1.2.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_ios-1.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="stripe_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_platform_interface-1.2.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_platform_interface-1.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="synchronized">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="term_glyph">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
             </list>
           </value>
@@ -1175,6 +1208,7 @@
         <entry key="test_api">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.2/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/lib" />
             </list>
           </value>
@@ -1182,34 +1216,35 @@
         <entry key="the_apple_sign_in">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/the_apple_sign_in-1.1.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/the_apple_sign_in-1.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="timezone">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/timezone-0.7.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/timezone-0.7.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="transparent_image">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/transparent_image-1.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/transparent_image-1.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="tuple">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/tuple-2.0.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/tuple-2.0.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="typed_data">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/lib" />
             </list>
           </value>
@@ -1217,76 +1252,70 @@
         <entry key="unicode">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/unicode-0.2.4/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="universal_io">
-          <value>
-            <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/universal_io-2.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/unicode-0.2.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.2/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.2/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_linux">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.4/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.5/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.8/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.7/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_windows">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="uuid">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="validate">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/validate-1.7.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/validate-1.7.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="vector_math">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.1/lib" />
             </list>
           </value>
@@ -1294,104 +1323,91 @@
         <entry key="video_player">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.19/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="video_player_android">
-          <value>
-            <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.0/lib" />
-            </list>
-          </value>
-        </entry>
-        <entry key="video_player_avfoundation">
-          <value>
-            <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_avfoundation-2.3.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.17/lib" />
             </list>
           </value>
         </entry>
         <entry key="video_player_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-5.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-5.1.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="video_player_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.7/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.7/lib" />
             </list>
           </value>
         </entry>
         <entry key="wakelock">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="wakelock_macos">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="wakelock_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.3.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.3.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="wakelock_web">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="wakelock_windows">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_windows-0.2.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_windows-0.2.0/lib" />
             </list>
           </value>
         </entry>
         <entry key="webview_flutter">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="webview_flutter_android">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/lib" />
             </list>
           </value>
         </entry>
         <entry key="webview_flutter_platform_interface">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_platform_interface-1.8.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_platform_interface-1.8.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="webview_flutter_wkwebview">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.7.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.7.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="win32">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/win32-2.3.6/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.4.1/lib" />
             </list>
           </value>
@@ -1399,13 +1415,14 @@
         <entry key="wkt_parser">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wkt_parser-1.0.7/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wkt_parser-1.0.7/lib" />
             </list>
           </value>
         </entry>
         <entry key="xdg_directories">
           <value>
             <list>
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1/lib" />
               <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1/lib" />
             </list>
           </value>
@@ -1413,161 +1430,243 @@
         <entry key="xml">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="yaml">
           <value>
             <list>
-              <option value="$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0/lib" />
+              <option value="$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/git/flutter_geocoder-07f1516ac4db16ab0c97d1c18dcfa11538cf5805/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/git/flutter_webview_plugin-f85db45aedefeab4c1df75cfc4c35f62d3c1c629/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.2.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/git/flutter_geocoder-07f1516ac4db16ab0c97d1c18dcfa11538cf5805/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/git/flutter_webview_plugin-f85db45aedefeab4c1df75cfc4c35f62d3c1c629/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/archive-3.2.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/async-2.8.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/cached_network_image-3.0.0-nullsafety/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/carousel_slider-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/chewie-1.2.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/dio-4.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/dynamic_themes-1.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/easy_localization-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/easy_logger-0.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/eventify-1.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-4.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.2.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0+11/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-9.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_platform_interface-2.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location-1.2.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location_platform_interface-1.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fl_location_web-1.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_activity_recognition-1.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_braintree-2.3.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-3.0.0-nullsafety.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_credit_card-0.1.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_datetime_picker-1.5.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-3.5.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_google_places-0.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_image-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.7.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-5.0.0+4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_native_admob-2.1.0+3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_speed_dial-2.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html-0.6.0-rc.2021031201/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html_core-0.6.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-0.14.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_cached_network_image-0.6.0-rc.2021030401/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_chewie-0.6.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_svg-0.6.0+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_url_launcher-0.6.1+3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/fwfh_webview-0.6.2+2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geofence_service-3.4.8/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator-7.7.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-2.3.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_api_headers-1.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_maps_webservice-0.0.20-nullsafety.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.12.2+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.1.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/group_radio_button-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase-1.0.9/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_android-0.1.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_ios-0.1.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_platform_interface-1.3.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.4.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/lists-0.1.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/mgrs_dart-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0-nullsafety.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_linux-1.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_platform_interface-1.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/package_info_plus_windows-1.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/permission_handler_platform_interface-3.7.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/photo_view-0.10.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/positioned_tap_detector_2-1.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/proj4dart-1.0.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/quiver-3.0.1+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.7/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sembast-3.0.0+4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.11/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.10/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.0.9/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/shimmer-1.1.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sprintf-6.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.0.1+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_android-1.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_ios-1.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/stripe_platform_interface-1.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/the_apple_sign_in-1.1.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/timezone-0.7.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/transparent_image-1.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/tuple-2.0.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/unicode-0.2.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.2/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.4/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.5/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.7/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/validate-1.7.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.17/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-5.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.7/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.3.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wakelock_windows-0.2.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_platform_interface-1.8.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.7.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/win32-2.3.6/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/wkt_parser-1.0.7/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_localizations/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_test/lib" />
+      <root url="file://$USER_HOME$/Downloads/flutter 2.5.2/packages/flutter_web_plugins/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-3.0.0-nullsafety/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/carousel_slider-3.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.3.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/chewie-1.2.2/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/dio-4.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/dynamic_themes-1.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/easy_localization-3.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/easy_logger-0.0.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/eventify-1.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/ffi-1.1.2/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/file-6.1.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-1.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-4.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-1.0.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.2.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_dynamic_links-0.5.0+11/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-9.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_platform_interface-2.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-1.0.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location-1.2.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location_platform_interface-1.1.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fl_location_web-1.1.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_activity_recognition-1.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_braintree-2.3.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-3.0.0-nullsafety.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_credit_card-0.1.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_datetime_picker-1.5.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-3.5.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_google_places-0.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_icons-1.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image-3.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.7.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-5.0.0+4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications_platform_interface-3.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_admob-2.1.0+3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_image-0.0.5+3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.0.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_speed_dial-2.1.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html-0.6.0-rc.2021031201/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_widget_from_html_core-0.6.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-0.14.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_cached_network_image-0.6.0-rc.2021030401/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_chewie-0.6.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_svg-0.6.0+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_url_launcher-0.6.1+3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fwfh_webview-0.6.2+2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geofence_service-3.4.8/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.7.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_apple-1.2.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_platform_interface-2.3.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_headers-1.1.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_platform_interface-2.1.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_webservice-0.0.20-nullsafety.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.12.2+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.1.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/group_radio_button-1.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.1.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase-1.0.9/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_android-0.1.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_ios-0.1.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/in_app_purchase_platform_interface-1.3.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/json_annotation-4.4.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/launch_review-2.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/lists-0.1.6/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.3/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.7.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/mgrs_dart-1.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/octo_image-1.0.0-nullsafety.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_linux-1.0.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_macos-1.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_platform_interface-1.0.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_web-1.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus_windows-1.0.4/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-0.5.1+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-0.2.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_platform_interface-2.0.3/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_platform_interface-3.7.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-4.4.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/photo_view-0.10.3/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/platform-3.1.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.1.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/positioned_tap_detector_2-1.0.4/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/process-4.2.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/progress_dialog-1.2.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/proj4dart-1.0.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-3.0.1+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.7/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/rxdart-0.26.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sembast-3.0.0+4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.11/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.13/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.0/lib" />
@@ -1576,59 +1675,18 @@
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.3/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shimmer-1.1.2/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sprintf-6.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.2.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-1.2.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_ios-1.2.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_platform_interface-1.2.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/synchronized-3.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/the_apple_sign_in-1.1.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/timezone-0.7.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/transparent_image-1.0.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/tuple-2.0.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/unicode-0.2.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/universal_io-2.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.2/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.4/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.5/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.8/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/validate-1.7.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.19/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_avfoundation-2.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_platform_interface-5.1.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.7/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.5.6/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_platform_interface-0.3.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock_windows-0.2.0/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_platform_interface-1.8.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.7.1/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.4.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/wkt_parser-1.0.7/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/xml-5.3.1/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/packages/flutter/lib" />
-      <root url="file://$USER_HOME$/Downloads/flutter/packages/flutter_localizations/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/packages/flutter_test/lib" />
       <root url="file://$USER_HOME$/Downloads/flutter/packages/flutter_web_plugins/lib" />
     </CLASSES>
