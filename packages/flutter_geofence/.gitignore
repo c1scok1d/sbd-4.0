@@ -1,0 +1,6 @@
+.DS_Store
+/.dart_tool
+/.idea
+/.packages
+/example/ios/Flutter/.last_build_id
+/flutter_geofence.iml

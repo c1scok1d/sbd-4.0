@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/dynamic_theme/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/dynamic_theme/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/dynamic_theme/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/easy_localization/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/easy_localization/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/easy_localization/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_geofence/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_geofence/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_geofence/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_map/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_map/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_map/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_native_admob/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_native_admob/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_native_admob/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_stripe/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_stripe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/flutter_stripe/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/geofence_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/geofence_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/geofence_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/latlong/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/latlong/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/latlong/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/multi_image_picker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/multi_image_picker/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/optimized_cached_image/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/optimized_cached_image/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/optimized_cached_image/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/pdf_viewer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/pdf_viewer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/pdf_viewer/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

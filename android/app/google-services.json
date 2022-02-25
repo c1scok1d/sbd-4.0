@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945661989282",
+    "project_id": "sable-mobile-app-1617380169435",
+    "storage_bucket": "sable-mobile-app-1617380169435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945661989282:android:94a719b4c804c96dfa22fb",
+        "android_client_info": {
+          "package_name": "com.sable.businesslistingapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945661989282-hk9l2ef81mm4jimm2homauvni2fqhq9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3cdFkVivjeGN3cosfKwIkehzpIkY59oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945661989282-368qt6s76e5pck7srobefm1qt9dgfdnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6732007157855667~5895978563"
+    }
+  ],
+  "configuration_version": "1"
+}

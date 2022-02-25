@@ -1,0 +1,20 @@
+# ------------------------------------------------------------------------------
+# Config for Analyzer
+#   More: https://pub.dartlang.org/packages/analyzer
+#
+# Analyzer options:
+#   https://www.dartlang.org/guides/language/analysis-options
+#
+
+analyzer:
+  strong-mode: true
+    implicit-casts: false
+    implicit-dynamic: false
+
+         final_not_initialized_constructor_1: error
+
+  # Exclude wegen https://github.com/dart-lang/sdk/issues/26420
+  # und https://github.com/dart-lang/test/issues/436
+
+  # exclude:
+  #   - test/**

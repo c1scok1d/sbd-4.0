@@ -1,0 +1,152 @@
+import 'dart:async';
+import 'dart:io';
+import 'dart:typed_data';
+
+import 'package:advance_pdf_viewer/src/page.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_cache_manager/flutter_cache_manager.dart';
+import 'package:path_provider/path_provider.dart';
+
+class PDFDocument {
+  static const MethodChannel _channel =
+      MethodChannel('flutter_plugin_pdf_viewer');
+
+  String _filePath;
+  int count;
+  final List<PDFPage> _pages = <PDFPage> [];
+  final List<int> listCount = <int> [];
+  bool _preloaded = false;
+
+  /// Load a PDF File from a given File
+  /// [File file], file to be loaded
+  ///
+  static Future<PDFDocument> fromFile(File file) async {
+    final PDFDocument document = PDFDocument();
+    document._filePath = file.path;
+    try {
+      final dynamic pageCount =
+          await _channel.invokeMethod<bool>('getNumberOfPages', <String, dynamic> {'filePath': file.path});
+      document.count = document.count = int.parse(pageCount);
+    } catch (e) {
+      throw Exception('Error reading PDF!');
+    }
+    return document;
+  }
+
+  /// Load a PDF File from a given URL.
+  /// File is saved in cache
+  /// [String url] url of the pdf file
+  /// [Map<String,String headers] headers to pass for the [url]
+  /// [CacheManager cacheManager] to provide configuration for 
+  /// cache management
+  static Future<PDFDocument> fromURL(String url,
+      {Map<String, String> headers, CacheManager cacheManager}) async {
+    // Download into cache
+    final File f = await (cacheManager ?? DefaultCacheManager())
+        .getSingleFile(url, headers: headers);
+    final PDFDocument document = PDFDocument();
+    document._filePath = f.path;
+    try {
+      final dynamic pageCount =
+          await _channel.invokeMethod<bool>('getNumberOfPages', <String, dynamic> {'filePath': f.path});
+      document.count = document.count = int.parse(pageCount);
+    } catch (e) {
+      throw Exception('Error reading PDF!');
+    }
+    return document;
+  }
+
+  /// Load a PDF File from assets folder
+  /// [String asset] path of the asset to be loaded
+  ///
+  static Future<PDFDocument> fromAsset(String asset) async {
+    File file;
+    try {
+      final Directory dir = await getApplicationDocumentsDirectory();
+      file = File('${dir.path}/file.pdf');
+      final ByteData data = await rootBundle.load(asset);
+      final Uint8List bytes = data.buffer.asUint8List();
+      await file.writeAsBytes(bytes, flush: true);
+    } catch (e) {
+      throw Exception('Error parsing asset file!');
+    }
+    final PDFDocument document = PDFDocument();
+    document._filePath = file.path;
+    try {
+      final dynamic pageCount = await _channel
+          .invokeMethod<bool>('getNumberOfPages', <String, dynamic>{'filePath': file.path});
+      document.count = document.count = int.parse(pageCount);
+    } catch (e) {
+      throw Exception('Error reading PDF!');
+    }
+    return document;
+  }
+
+  /// Load specific page
+  ///
+  /// [page] defaults to `1` and must be equal or above it
+  Future<PDFPage> get({
+    int page = 1,
+    final Function(double) onZoomChanged,
+    final int zoomSteps,
+    final double minScale,
+    final double maxScale,
+    final double panLimit,
+  }) async {
+    assert(page > 0);
+    if (_preloaded && _pages.isNotEmpty) {
+      return _pages[page - 1];
+    }
+    final dynamic data = await _channel
+        .invokeMethod<bool>('getPage', <String, dynamic> {'filePath': _filePath, 'pageNumber': page});
+    return PDFPage(
+      data,
+      page,
+      onZoomChanged: onZoomChanged,
+      zoomSteps: zoomSteps,
+      minScale: minScale,
+      maxScale: maxScale,
+      panLimit: panLimit,
+    );
+  }
+
+  Future<void> preloadPages({
+    final Function(double) onZoomChanged,
+    final int zoomSteps,
+    final double minScale,
+    final double maxScale,
+    final double panLimit,
+  }) async {
+    int countvar = 1;
+  
+    await Future.forEach<int>(listCount, (int i) async {
+      final dynamic data = await _channel.invokeMethod<bool>(
+          'getPage', <String, dynamic>{'filePath': _filePath, 'pageNumber': countvar});
+      _pages.add(PDFPage(
+        data,
+        countvar,
+        onZoomChanged: onZoomChanged,
+        zoomSteps: zoomSteps,
+        minScale: minScale,
+        maxScale: maxScale,
+        panLimit: panLimit,
+      ));
+      countvar++;
+    });
+    _preloaded = true;
+  }
+
+  // Stream all pages
+  Stream<PDFPage> getAll({final Function(double) onZoomChanged}) {
+    return Future.forEach<PDFPage>(_pages, (PDFPage i) async {
+      print(i);
+      final dynamic data = await _channel
+          .invokeMethod<bool>('getPage', <String, dynamic> {'filePath': _filePath, 'pageNumber': i});
+      return PDFPage(
+        data,
+        1,
+        onZoomChanged: onZoomChanged,
+      );
+    }).asStream();
+  }
+}
